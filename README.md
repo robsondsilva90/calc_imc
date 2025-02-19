@@ -1,6 +1,6 @@
 # Verificador IMC
 
-Este projeto é um site simples, desenvolvido com JavaScript puro, que permite aos usuários calcular o Índice de Massa Corporal (IMC) e verificar seu status de saúde (bom, regular ou ruim). O projeto foi realizado como parte da aula "Hora de Codar" com o instrutor Matheus Battisti.
+Este projeto é um site simples, desenvolvido com JavaScript puro, que permite aos usuários calcular o Índice de Massa Corporal (IMC) e verificar seu status de saúde (baixo, bom, médio ou alto). O projeto foi realizado como parte da aula "Hora de Codar" com o instrutor Matheus Battisti.
 
 ## Funcionalidades
 
