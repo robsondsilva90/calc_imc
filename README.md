@@ -24,3 +24,5 @@ Este projeto é um site simples, desenvolvido com JavaScript puro, que permite a
 
    ```bash
    git clone https://github.com/robsondsilva90/calc_imc.git
+
+. ### [Clique aqui para ver o funcionamento](https://robsondsilva90.github.io/calc_imc/)
