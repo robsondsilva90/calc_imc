@@ -23,4 +23,4 @@ Este projeto é um site simples, desenvolvido com JavaScript puro, que permite a
 1. Clone o repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seuusuario/verificador-imc.git
+   git clone https://github.com/robsondsilva90/calc_imc.git
